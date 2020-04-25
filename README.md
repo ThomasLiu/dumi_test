@@ -1,3 +1,5 @@
+[Travis CI 持续集成](https://www.jianshu.com/p/8fa9322b8e73)
+
 # dumi library
 
 ## Getting Started
