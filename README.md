@@ -1,4 +1,4 @@
-[Travis CI 持续集成](https://www.jianshu.com/p/8fa9322b8e73)
+本项目使用的是 [dumi](https://d.umijs.org/guide/getting-started)
 
 # dumi library
 
